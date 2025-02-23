@@ -29,7 +29,7 @@ const CardEmployee = ({
   handleSelectEmployee,
 }: CardEmployeeProps) => {
   const animation = useRef(new Animated.Value(0)).current;
-  const [display, setDisplay] = useState<'none' | 'flex'>('none');
+  const [display, setDisplay] = useState<'none' | 'flex'>('flex');
 
   useMemo(() => {
     if (seeInformations) {
