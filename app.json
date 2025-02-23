@@ -1,0 +1,11 @@
+{
+  "name": "Betalent",
+  "displayName": "Betalent",
+  "slug": "betalent",
+  "orientation": "portrait",
+  "icon": "./src/assets/logo.png",
+  "splash": {
+    "image": "./src/assets/splashscreen.png",
+    "resizeMode": "cover"
+  }
+}
