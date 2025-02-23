@@ -55,8 +55,6 @@ npm run start
 - **React Native**: Framework para desenvolvimento de aplicações mobile.
 - **Yarn**: Gerenciador de pacotes.
 - **JSON Server**: Servidor para simulação de banco de dados.
-- **React Navigation**: Navegação entre as telas.
-- **Styled Components**: Estilização da interface.
 
 ---
 
