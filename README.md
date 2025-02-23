@@ -39,13 +39,21 @@ Se você estiver rodando a aplicação em um **emulador Android**, será necess�
 Após configurar as dependências e o banco de dados, basta rodar a aplicação com:
 
 ```bash
-yarn run start
+yarn run android
+```
+ou
+```bash
+yarn run ios 
 ```
 
 Ou, caso prefira utilizar o **npm**:
 
 ```bash
-npm run start
+npm run android 
+```
+ou
+```bash
+npm run ios 
 ```
 
 ---
